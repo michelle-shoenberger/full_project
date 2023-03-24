@@ -1,0 +1,11 @@
+.primary {
+  background-color: green !important;
+  color: white
+}
+.secondary {
+  background-color: lightgrey !important;
+}
+.accent {
+  background-color: black !important;
+  color: white
+}
